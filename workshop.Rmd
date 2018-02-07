@@ -12,7 +12,7 @@ The workshop Moving2Gather is organized every two years since 2015.
 
     [Link](https://m2g-2017.sciencesconf.org/program/details) to the program.
     
-    Downlowd the keynote presentations.
+    Downlowd the keynote presentations [here](docs/KeynoteSpeakers.zip).
 
 ![](docs/flyer.jpg)
 
