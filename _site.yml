@@ -8,3 +8,9 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Past Workshops"
+      href: workshop.html
+output:
+  html_document:
+    theme: spacelab
+    css: style.css
