@@ -1,0 +1,10 @@
+name: "Moving2Gather-website"
+output_dir: "."
+navbar:
+  title: "Moving2Gather Website"
+  type: inverse
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
