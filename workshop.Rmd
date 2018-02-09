@@ -1,20 +1,36 @@
----
-title: "Past workshops"
----
+
+
+
+<br/>
+<br/>
 
 The workshop Moving2Gather is organized every two years since 2015. 
 
-- First edition of the Moving2Gather workshop was held in Nantes on December 7-10, 2015. 
+<br/>
 
-    [Link](https://moving2gather.sciencesconf.org/program/details) to the program.
+#### 1) First edition of the Moving2Gather workshop was held in Nantes on December 7-10, 2015.
 
-- Second edition took place in Montpellier on December 18-20, 2017. 
+[Link](https://moving2gather.sciencesconf.org/program/details) to the program.
 
-    [Link](https://m2g-2017.sciencesconf.org/program/details) to the program.
+<br/>
+
+#### 2) Second edition took place in Montpellier on December 18-20, 2017.
+
+[Link](https://m2g-2017.sciencesconf.org/program/details) to the detailed program.
     
-    Downlowd the keynote presentations [here](docs/KeynoteSpeakers.zip).
+![](docs/flyer.jpg)    
+    
+    
+    
+You can download the keynote presentations here: 
+        
+- *Order, interpretation and architecture of state processes in hidden Markov movement models*, Roland Langrock [[presentation]](docs/Roland_Langrock.pdf)
+    
 
-![](docs/flyer.jpg)
+    
+        
+
+
 
 
     

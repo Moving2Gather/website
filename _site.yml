@@ -6,10 +6,12 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Past Workshops"
+    - text: "Workshops"
       href: workshop.html
+    - text: "Links"
+      href: links.html
+    - text: "Join us"
+      href: contact.html
 output:
   html_document:
     theme: spacelab
