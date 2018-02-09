@@ -30,7 +30,7 @@ You can download the keynote presentations here:
 - *moveHMM and momentuHMM in practice*, Théo Michelot [[presentation]](docs/Theo_Michelot.pdf) 
 
 
-- *Moving2network : from movement to networks*, Vincent Miele
+- *Moving2network : from movement to networks*, Vincent Miele [[presentation]](docs/Vincent_Miele.pdf) 
 
     
         
